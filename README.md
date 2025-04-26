@@ -1,3 +1,3 @@
 # classpract-.net
 
-this is class pract
+The class practice qns are inside Function folders
