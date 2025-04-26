@@ -1,0 +1,14 @@
+E:\lab2(dotnet)\class work\bin\Debug\net8.0-windows\class work.exe
+E:\lab2(dotnet)\class work\bin\Debug\net8.0-windows\class work.deps.json
+E:\lab2(dotnet)\class work\bin\Debug\net8.0-windows\class work.runtimeconfig.json
+E:\lab2(dotnet)\class work\bin\Debug\net8.0-windows\class work.dll
+E:\lab2(dotnet)\class work\bin\Debug\net8.0-windows\class work.pdb
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.AssemblyInfoInputs.cache
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.AssemblyInfo.cs
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.csproj.CoreCompileInputs.cache
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.dll
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\refint\class work.dll
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.pdb
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\class work.genruntimeconfig.cache
+E:\lab2(dotnet)\class work\obj\Debug\net8.0-windows\ref\class work.dll

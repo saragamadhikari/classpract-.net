@@ -1,0 +1,10 @@
+E:\lab2(dotnet)\simp\bin\Debug\simp.exe.config
+E:\lab2(dotnet)\simp\bin\Debug\simp.exe
+E:\lab2(dotnet)\simp\bin\Debug\simp.pdb
+E:\lab2(dotnet)\simp\obj\Debug\simp.csproj.AssemblyReference.cache
+E:\lab2(dotnet)\simp\obj\Debug\simp.Form1.resources
+E:\lab2(dotnet)\simp\obj\Debug\simp.Properties.Resources.resources
+E:\lab2(dotnet)\simp\obj\Debug\simp.csproj.GenerateResource.cache
+E:\lab2(dotnet)\simp\obj\Debug\simp.csproj.CoreCompileInputs.cache
+E:\lab2(dotnet)\simp\obj\Debug\simp.exe
+E:\lab2(dotnet)\simp\obj\Debug\simp.pdb

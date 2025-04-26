@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lab3\\class work\\Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6A9B65-2671-49AE-ADF0-74DAC3B9E76E}|Function.csproj|e:\\lab3\\class work\\function\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6A9B65-2671-49AE-ADF0-74DAC3B9E76E}|Function.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6A9B65-2671-49AE-ADF0-74DAC3B9E76E}|Function.csproj|e:\\lab3\\class work\\function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6A9B65-2671-49AE-ADF0-74DAC3B9E76E}|Function.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "E:\\lab3\\class work\\Function\\Inheritance.cs",
+              "RelativeDocumentMoniker": "Inheritance.cs",
+              "ToolTip": "E:\\lab3\\class work\\Function\\Inheritance.cs",
+              "RelativeToolTip": "Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:18:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lab3\\class work\\Function\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\lab3\\class work\\Function\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:56:34.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
